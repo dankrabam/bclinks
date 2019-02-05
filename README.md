@@ -3,6 +3,7 @@
   * [BC Dev Blog](https://community.dynamics.com/business/b/businesscentraldevitpro)
   * [Old Dev Blog](https://blogs.msdn.microsoft.com/nav)
   * [Freddys Blog](https://blogs.msdn.microsoft.com/freddyk)
+  * [BC on Twitter](https://twitter.com/MSDYN365BC)
 ### Learning
   * [Learning Catalog](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-learning-catalog)
   * [Getting Started article](https://docs.microsoft.com/en-us/dynamics-nav/developer/devenv-get-started)
