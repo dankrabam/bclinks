@@ -22,6 +22,7 @@
   * [aka.ms/vssignout](aka.ms/vssignout)
   * [aka.ms/getbc](aka.ms/getbc)
 ### Using Git / DevOps
-  * [Merging Pull Requests](https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-requests?view=azure-devops&tabs=new-nav)
+  * [Pull Requests](https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-requests?view=azure-devops&tabs=new-nav)
+  * [Resolving Conflicts](https://www.youtube.com/watch?v=__cR7uPBOIk)
 ### Other
   * [Freddys Blogs](https://blogs.msdn.microsoft.com/freddyk/2018/04/09/whoareyoufollowing/)
