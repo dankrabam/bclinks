@@ -1,5 +1,6 @@
 ## Business Central Links for Developers
 ### Updates on AL/BC 
+  * [Upcoming Features / Release Notes](https://docs.microsoft.com/en-us/business-applications-release-notes)
   * [BC Dev Blog](https://community.dynamics.com/business/b/businesscentraldevitpro)
   * [Old Dev Blog](https://blogs.msdn.microsoft.com/nav)
   * [Freddys Blog](https://blogs.msdn.microsoft.com/freddyk)
