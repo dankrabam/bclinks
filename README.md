@@ -19,9 +19,9 @@
   * [AL on Git](https://github.com/microsoft/al)
   * [NavContainerHelper on Git](https://github.com/Microsoft/navcontainerhelper)
 ### aka.ms links
-  * [aka.ms/vsprofile](aka.ms/vsprofile)
-  * [aka.ms/vssignout](aka.ms/vssignout)
-  * [aka.ms/getbc](aka.ms/getbc)
+  * [aka.ms/vsprofile](https://aka.ms/vsprofile)
+  * [aka.ms/vssignout](https://aka.ms/vssignout)
+  * [aka.ms/getbc](https://aka.ms/getbc)
 ### Using Git / DevOps
   * [Pull Requests](https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-requests?view=azure-devops&tabs=new-nav)
   * [Resolving Conflicts](https://www.youtube.com/watch?v=__cR7uPBOIk)
