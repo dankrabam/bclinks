@@ -3,7 +3,8 @@
   * [Upcoming Features / Release Notes](https://docs.microsoft.com/en-us/business-applications-release-notes)
   * [BC Dev Blog](https://community.dynamics.com/business/b/businesscentraldevitpro)
   * [Old Dev Blog](https://blogs.msdn.microsoft.com/nav)
-  * [Freddys Blog](https://blogs.msdn.microsoft.com/freddyk)
+  * [Freddys Blog](https://community.dynamics.com/business/b/freddysblog)
+  * [Freddys Blog Old](https://blogs.msdn.microsoft.com/freddyk)
   * [BC on Twitter](https://twitter.com/MSDYN365BC)
 ### Learning
   * [Learning Catalog](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-learning-catalog)
@@ -27,3 +28,4 @@
   * [Resolving Conflicts](https://www.youtube.com/watch?v=__cR7uPBOIk)
 ### Other
   * [Freddys Blogs](https://blogs.msdn.microsoft.com/freddyk/2018/04/09/whoareyoufollowing/)
+  * [Keyboard Shortcuts](https://pbs.twimg.com/media/D3HjELWUcAAACpW.jpg:large)
