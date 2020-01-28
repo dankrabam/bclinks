@@ -10,6 +10,7 @@
   * [Learning Catalog](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-learning-catalog)
   * [Getting Started article](https://docs.microsoft.com/en-us/dynamics-nav/developer/devenv-get-started)
   * [Business Central Learning Videos](https://aka.ms/businesscentralvideos)
+  * [Events](https://events.microsoft.com/?timeperiod=next30Days&isSharedInLocalViewMode=true)
 ### Dev Resources
   * [Developer Reference](https://docs.microsoft.com/en-us/dynamics-nav/developer/devenv-dev-overview)
   * [Dev tools bugs and suggestions](https://github.com/microsoft/AL)
