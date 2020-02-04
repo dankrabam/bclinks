@@ -30,3 +30,4 @@
 ### Other
   * [Freddys Blogs](https://blogs.msdn.microsoft.com/freddyk/2018/04/09/whoareyoufollowing/)
   * [Keyboard Shortcuts](https://pbs.twimg.com/media/D3HjELWUcAAACpW.jpg:large)
+  * [CI/CD Sample Project](https://dev.azure.com/businesscentralapps/BingMaps)
